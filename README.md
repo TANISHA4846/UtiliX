@@ -87,7 +87,7 @@ Smooth navigation using React Router
 ---
 ##  Setup instructions
 
-Clone the project
+Clone this repository
 
 ```bash
   git clone https://github.com/tanisha4846/UtiliX
@@ -102,7 +102,7 @@ npm run dev
 ```
 Frontend Setup
 ```bash
-cd client
+cd frontend
 npm install
 npm run dev
 ```
